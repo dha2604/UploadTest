@@ -1,0 +1,6 @@
+D:\Test\TestConole\TestConole\bin\Debug\TestConole.exe.config
+D:\Test\TestConole\TestConole\bin\Debug\TestConole.exe
+D:\Test\TestConole\TestConole\bin\Debug\TestConole.pdb
+D:\Test\TestConole\TestConole\obj\Debug\TestConole.csprojResolveAssemblyReference.cache
+D:\Test\TestConole\TestConole\obj\Debug\TestConole.exe
+D:\Test\TestConole\TestConole\obj\Debug\TestConole.pdb
